@@ -1,0 +1,11 @@
+target/**
+*.jar
+*.war
+*.ear
+*.class
+.project
+.metadata
+bin/**
+local.properties
+.classpath
+.settings/
